@@ -1,0 +1,16 @@
+# Credentials — NEVER commit these
+.env
+*.env
+
+# Excel temp files
+~$*.xlsm
+~$*.xlsx
+*.xlk
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output / generated proposals
+/output/
+/proposals/
