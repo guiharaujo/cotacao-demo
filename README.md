@@ -164,7 +164,7 @@ cotacao-demo/
 
 ## Author
 
-**Guilherme Araújo** — Supply Chain & Data Consultant  
+**Guilherme Araujo** — Supply Chain & Data Consultant  
 Specialist in business process automation, FP&A systems, and BI development.  
 SAP B1 · Power BI · Python · Azure SQL · Excel VBA
 
