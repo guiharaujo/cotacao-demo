@@ -111,7 +111,7 @@ See `.env.example` for reference.
 
 ### 3. Excel
 
-- Open `SX_COTACAO_DEMO.xlsm`
+- Open `COTACAO_DEMO.xlsm`
 - Enable macros when prompted
 - Log in with a user from `COT_USUARIOS`
 
@@ -120,7 +120,7 @@ See `.env.example` for reference.
 ## Project Structure
 
 ```
-sx-cotacao-demo/
+cotacao-demo/
 ├── src/
 │   ├── modules/
 │   │   ├── Config.bas          # Connection + constants
@@ -164,7 +164,7 @@ sx-cotacao-demo/
 
 ## Author
 
-**Guilherme Araujo** — Supply Chain & Data Consultant  
+**Guilherme Araújo** — Supply Chain & Data Consultant  
 Specialist in business process automation, FP&A systems, and BI development.  
 SAP B1 · Power BI · Python · Azure SQL · Excel VBA
 
